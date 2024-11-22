@@ -11,7 +11,7 @@
   "env": {
     "OWNER_NAME": {
       "description": "Name for Bot Owner",    
-      "value": "Suhail-X",
+      "value": "Ab.sallam",
       "required" :true
     },   
      
@@ -67,7 +67,7 @@
     },
     "OWNER_NUMBER": {
       "description": "The phone numbers of the users who you want to be admin for the bot (should be in international format without + and multiple numbers must be separated by a comma \",\")",
-      "value": "923184474176"
+      "value": "2348100968427"
     },
     "SESSION_ID": {
       "description": "put your SESSION_ID here.",
